@@ -1,0 +1,12 @@
+.secaoImagens__imagem {
+    width: 400px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.secaoImagens__imagem img {
+    max-width: 100%;
+    margin: 0 auto;
+}
